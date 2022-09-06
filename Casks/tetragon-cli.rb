@@ -11,6 +11,6 @@ cask "tetragon-cli" do
   desc "CLI for eBPF-based Security Observability and Runtime Enforcement"
   homepage "https://github.com/cilium/tetragon"
 
-  binary "tetragon-darwin-#{arch}/tetragon"
+  binary "tetragon"
 
 end
